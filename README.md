@@ -18,16 +18,16 @@
 - [x] #2.1 Before React
 - [x] #2.2 Our First React Element
 - [x] #2.3 Events in React
-- [ ] #2.4 Recap
-- [ ] #2.5 JSX
-- [ ] #2.6 JSX part Two
+- [x] #2.4 Recap
+- [x] #2.5 JSX
+- [x] #2.6 JSX part Two
 
 ---
 
 ### #3 [2021 UPDATE] STATE
 
-- [ ] #3.0 Understanding State
-- [ ] #3.1 setState part One
+- [x] #3.0 Understanding State
+- [x] #3.1 setState part One
 - [ ] #3.2 setState part Two
 - [ ] #3.3 Recap
 - [ ] #3.4 State Functions
